@@ -1,0 +1,78 @@
+15:51:07.497387 server.go:143: handle income message:  [Join]
+15:51:07.513228 server.go:143: handle income message:  [Join]
+15:51:07.513271 server.go:143: handle income message:  [Join]
+15:51:07.513305 server.go:143: handle income message:  [Join]
+15:51:07.513352 server.go:143: handle income message:  [Join]
+15:51:07.513386 server.go:143: handle income message:  [Join]
+15:51:07.513416 server.go:143: handle income message:  [Join]
+15:51:07.513443 server.go:143: handle income message:  [Join]
+15:51:07.513467 server.go:143: handle income message:  [Join]
+15:51:07.513497 server.go:143: handle income message:  [Join]
+15:51:07.513530 server.go:143: handle income message:  [Join]
+15:51:07.513556 server.go:143: handle income message:  [Join]
+15:51:07.513579 server.go:143: handle income message:  [Join]
+15:51:07.513595 server.go:143: handle income message:  [Join]
+15:51:09.241575 server.go:143: handle income message:  [Request c 0 200000]
+15:51:09.264359 server.go:143: handle income message:  [Request b 0 2000000]
+15:51:09.274559 server.go:143: handle income message:  [Request a 0 1000000]
+15:51:09.321539 server.go:143: handle income message:  [Result 585310370124286 28761]
+15:51:09.338886 server.go:143: handle income message:  [Result 502838740649679 167579]
+15:51:09.339008 server.go:143: handle income message:  [Result 3168181811838429 128431]
+15:51:09.345160 server.go:143: handle income message:  [Result 508958643434884 81514]
+15:51:09.356469 server.go:143: handle income message:  [Result 2196562870089749 191422]
+15:51:09.386083 server.go:143: handle income message:  [Result 2144367200327294 182035]
+15:51:09.388210 server.go:143: handle income message:  [Result 194092831147747 20878]
+15:51:09.403953 server.go:143: handle income message:  [Result 338160849361195 6549]
+15:51:09.422497 server.go:143: handle income message:  [Result 1141789676835189 150907]
+15:51:09.437113 server.go:143: handle income message:  [Result 180428470153522 92016]
+15:51:09.448883 server.go:143: handle income message:  [Result 233719833964812 64389]
+15:51:09.463709 server.go:143: handle income message:  [Result 1034396927377821 45633]
+15:51:09.473685 server.go:143: handle income message:  [Result 1268033554774834 137979]
+15:51:09.530313 server.go:143: handle income message:  [Result 1169609583731710 110763]
+15:51:09.530336 server.go:178: Send back results 180428470153522 92016
+15:51:10.582057 server.go:143: handle income message:  [Result 7874489055334 1388792]
+15:51:10.599545 server.go:143: handle income message:  [Result 83297945708643 1117201]
+15:51:10.641758 server.go:143: handle income message:  [Result 46322765477259 1721496]
+15:51:10.644456 server.go:143: handle income message:  [Result 238043683336463 1210475]
+15:51:10.674569 server.go:143: handle income message:  [Result 24491035011349 1492720]
+15:51:10.685137 server.go:143: handle income message:  [Result 511582587355684 1708904]
+15:51:10.706393 server.go:143: handle income message:  [Result 215865201600041 147404]
+15:51:10.707343 server.go:143: handle income message:  [Result 108235236894870 457029]
+15:51:10.776404 server.go:143: handle income message:  [Result 104699660165092 395274]
+15:51:10.808513 server.go:143: handle income message:  [Result 10891424469570 623886]
+15:51:10.823690 server.go:143: handle income message:  [Result 187781120556699 6149]
+15:51:10.835813 server.go:143: handle income message:  [Result 54669084755504 1863294]
+15:51:10.886255 server.go:143: handle income message:  [Result 594922644585832 810331]
+15:51:10.911142 server.go:143: handle income message:  [Result 83634259992108 896739]
+15:51:10.911166 server.go:178: Send back results 7874489055334 1388792
+15:51:11.242175 server.go:143: handle income message:  [Result 166173929064232 206631]
+15:51:11.243446 server.go:143: handle income message:  [Result 222303857176878 87094]
+15:51:11.289259 server.go:143: handle income message:  [Result 149490074946875 993902]
+15:51:11.296500 server.go:143: handle income message:  [Result 272847643392910 378128]
+15:51:11.301305 server.go:143: handle income message:  [Result 57508625191798 276941]
+15:51:11.324373 server.go:143: handle income message:  [Result 562457388272691 583761]
+15:51:11.324423 server.go:143: handle income message:  [Result 159218021112518 709063]
+15:51:11.342748 server.go:143: handle income message:  [Result 90571678096214 316221]
+15:51:11.357467 server.go:143: handle income message:  [Result 107486930486398 546091]
+15:51:11.358106 server.go:143: handle income message:  [Result 207008258303962 43236]
+15:51:11.370136 server.go:143: handle income message:  [Result 1338392304931541 494843]
+15:51:11.372830 server.go:143: handle income message:  [Result 107749403307619 786306]
+15:51:11.401194 server.go:143: handle income message:  [Result 242185510771660 860955]
+15:51:11.401508 server.go:143: handle income message:  [Result 648029164394462 748880]
+15:51:11.401521 server.go:178: Send back results 57508625191798 276941
+15:51:21.386543 server.go:253: Handle failure 10
+15:51:23.387506 server.go:253: Handle failure 3
+15:51:25.384468 server.go:253: Handle failure 11
+15:51:27.387872 server.go:253: Handle failure 5
+15:51:29.384447 server.go:253: Handle failure 16
+15:51:31.383563 server.go:253: Handle failure 1
+15:51:33.383597 server.go:253: Handle failure 6
+15:51:35.386474 server.go:253: Handle failure 4
+15:51:37.387172 server.go:253: Handle failure 12
+15:51:39.388657 server.go:253: Handle failure 17
+15:51:41.386127 server.go:253: Handle failure 7
+15:51:43.384844 server.go:253: Handle failure 2
+15:51:45.385341 server.go:253: Handle failure 15
+15:51:47.388542 server.go:253: Handle failure 14
+15:51:49.386222 server.go:253: Handle failure 8
+15:51:51.387493 server.go:253: Handle failure 9
